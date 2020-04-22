@@ -1,0 +1,11 @@
+11:45:35	Deploying Plugins
+11:45:35	Searching for plugin config in 'C:\SpaceFlight365\Plugins\spkl\..'
+11:45:36	Using Config 'C:\SpaceFlight365\Plugins'
+11:45:36	Checking assembly 'microsoft.identitymodel.dll' for plugins
+11:45:41	Checking assembly 'SF365.Plugins.dll' for plugins
+11:45:41	2 plugin(s) found!
+11:45:42	Registering Plugin 'SF365.Plugins' from 'C:\SpaceFlight365\Plugins\bin\Debug\SF365.Plugins.dll'
+11:45:43	Registering Type 'SF365.Plugins.AccountPlugin'
+11:45:45	Registering Step 'Pre-Update Account'
+11:45:46	Registering Image 'PreImage'
+11:45:46	Processed 1 config(s)
