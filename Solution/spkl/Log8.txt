@@ -1,0 +1,27 @@
+15:19:43	<FileToPath map="PluginAssemblies\**\*.*" to="..\..\Plugins\bin\**" />
+15:19:43	<FileToPath map="WebResources\*.*" to="..\..\Webresources\Webresources\**" />
+15:19:43	<FileToPath map="WebResources\**\*.*" to="..\..\Webresources\Webresources\**" />
+15:19:44	Read-only files will be over-written or deleted.
+15:19:44	
+15:19:44	Extracting C:\Users\ChehihYh\AppData\Local\Temp\tmpFDBE.zip to C:\SpaceFlight365\Solution\package
+15:19:44	
+15:19:44	Processing Component: Entities
+15:19:44	 - Account
+15:19:44	Creating: C:\SpaceFlight365\Solution\package\Entities\Account\FormXml\main\{8448b78f-8f42-454e-8e2a-f8196b0419af}.xml
+15:19:44	Creating: C:\SpaceFlight365\Solution\package\Entities\Account\SavedQueries\{00000000-0000-0000-00aa-000010001002}.xml
+15:19:44	Creating: C:\SpaceFlight365\Solution\package\Entities\Account\RibbonDiff.xml
+15:19:44	Creating: C:\SpaceFlight365\Solution\package\Entities\Account\Entity.xml
+15:19:44	Processing Component: Roles
+15:19:44	Processing Component: Workflows
+15:19:44	Processing Component: FieldSecurityProfiles
+15:19:44	Processing Component: Templates
+15:19:44	Processing Component: EntityMaps
+15:19:44	Processing Component: EntityRelationships
+15:19:44	Creating: C:\SpaceFlight365\Solution\package\Other\Relationships.xml
+15:19:44	Processing Component: optionsets
+15:19:44	Processing Component: WebResources
+15:19:44	 - sf365_/js/checkin.js
+15:19:44	Creating: C:\SpaceFlight365\Solution\package\WebResources\sf365_\js\checkin.js.data.xml
+15:19:44	Skipping 'C:\SpaceFlight365\Solution\package\WebResources\sf365_\js\checkin.js' as it matches a mapping directive
+15:19:44	Processing Component: EntityDataProviders
+15:19:44	Creating: C:\SpaceFlight365\Solution\package\Other\Customizations.xml

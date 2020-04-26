@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<WebResource>
+  <WebResourceId>{848f94c5-8484-ea11-a811-000d3ab9514a}</WebResourceId>
+  <Name>sf365_/js/checkin.js</Name>
+  <DisplayName>sf365_/js/checkin.js</DisplayName>
+  <WebResourceType>3</WebResourceType>
+  <IntroducedVersion>1.0</IntroducedVersion>
+  <IsEnabledForMobileClient>0</IsEnabledForMobileClient>
+  <IsAvailableForMobileOffline>0</IsAvailableForMobileOffline>
+  <IsCustomizable>1</IsCustomizable>
+  <CanBeDeleted>1</CanBeDeleted>
+  <IsHidden>0</IsHidden>
+  <FileName>/WebResources/sf365_jscheckinjs848F94C5-8484-EA11-A811-000D3AB9514A</FileName>
+</WebResource>

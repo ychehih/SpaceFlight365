@@ -1,0 +1,98 @@
+15:19:43	Reading mapping directives...
+15:34:11	Reading mapping directives...
+15:34:11	<FileToPath map="PluginAssemblies\**\*.*" to="..\..\Plugins\bin\**" />
+15:34:11	<FileToPath map="WebResources\*.*" to="..\..\Webresources\Webresources\**" />
+15:34:11	<FileToPath map="WebResources\**\*.*" to="..\..\Webresources\Webresources\**" />
+15:34:11	Read-only files will be over-written or deleted.
+15:34:11	
+15:34:11	Extracting C:\Users\ChehihYh\AppData\Local\Temp\tmp1970.zip to C:\SpaceFlight365\Solution\package
+15:34:11	
+15:34:11	Processing Component: Entities
+15:34:11	 - Account
+15:34:11	No change: C:\SpaceFlight365\Solution\package\Entities\Account\FormXml\main\{8448b78f-8f42-454e-8e2a-f8196b0419af}.xml
+15:34:11	No change: C:\SpaceFlight365\Solution\package\Entities\Account\SavedQueries\{00000000-0000-0000-00aa-000010001002}.xml
+15:34:11	No change: C:\SpaceFlight365\Solution\package\Entities\Account\RibbonDiff.xml
+15:34:11	No change: C:\SpaceFlight365\Solution\package\Entities\Account\Entity.xml
+15:34:11	Processing Component: Roles
+15:34:11	Processing Component: Workflows
+15:34:11	Processing Component: FieldSecurityProfiles
+15:34:11	Processing Component: Templates
+15:34:11	Processing Component: EntityMaps
+15:34:11	Processing Component: EntityRelationships
+15:34:11	No change: C:\SpaceFlight365\Solution\package\Other\Relationships.xml
+15:34:11	Processing Component: optionsets
+15:34:11	Processing Component: WebResources
+15:34:11	 - sf365_/js/checkin.js
+15:34:11	No change: C:\SpaceFlight365\Solution\package\WebResources\sf365_\js\checkin.js.data.xml
+15:34:11	Skipping 'C:\SpaceFlight365\Solution\package\WebResources\sf365_\js\checkin.js' as it matches a mapping directive
+15:34:11	Processing Component: EntityDataProviders
+15:34:11	No change: C:\SpaceFlight365\Solution\package\Other\Customizations.xml
+15:34:11	No change: C:\SpaceFlight365\Solution\package\Other\Solution.xml
+15:34:11	
+15:34:11	Unmanaged Extract complete.
+15:34:11	
+15:34:11	1 warnings encountered
+15:34:11	Read-only files will be over-written or deleted.
+15:34:11	CrmSvcUtil Runtime = 00:00:00.3791470
+16:18:36	Reading mapping directives...
+16:18:36	<FileToPath map="PluginAssemblies\**\*.*" to="..\..\Plugins\bin\**" />
+16:18:36	<FileToPath map="WebResources\*.*" to="..\..\Webresources\Webresources\**" />
+16:18:36	<FileToPath map="WebResources\**\*.*" to="..\..\Webresources\Webresources\**" />
+16:18:36	Read-only files will be over-written or deleted.
+16:18:36	
+16:18:36	Extracting C:\Users\ChehihYh\AppData\Local\Temp\tmp657F.zip to C:\SpaceFlight365\Solution\package
+16:18:36	
+16:18:36	Processing Component: Entities
+16:18:36	 - Account
+16:18:36	No change: C:\SpaceFlight365\Solution\package\Entities\Account\FormXml\main\{8448b78f-8f42-454e-8e2a-f8196b0419af}.xml
+16:18:36	No change: C:\SpaceFlight365\Solution\package\Entities\Account\SavedQueries\{00000000-0000-0000-00aa-000010001002}.xml
+16:18:36	No change: C:\SpaceFlight365\Solution\package\Entities\Account\RibbonDiff.xml
+16:18:36	No change: C:\SpaceFlight365\Solution\package\Entities\Account\Entity.xml
+16:18:36	Processing Component: Roles
+16:18:36	Processing Component: Workflows
+16:18:36	Processing Component: FieldSecurityProfiles
+16:18:36	Processing Component: Templates
+16:18:36	Processing Component: EntityMaps
+16:18:36	Processing Component: EntityRelationships
+16:18:36	No change: C:\SpaceFlight365\Solution\package\Other\Relationships.xml
+16:27:14	Reading mapping directives...
+16:27:14	<FileToPath map="PluginAssemblies\**\*.*" to="..\..\Plugins\bin\**" />
+16:27:14	<FileToPath map="WebResources\*.*" to="..\..\Webresources\Webresources\**" />
+16:27:14	<FileToPath map="WebResources\**\*.*" to="..\..\Webresources\Webresources\**" />
+16:27:15	Read-only files will be over-written or deleted.
+16:27:15	
+16:27:15	Extracting C:\Users\ChehihYh\AppData\Local\Temp\tmp617C.zip to C:\SpaceFlight365\Solution\package
+16:27:15	
+16:27:15	Processing Component: Entities
+16:27:15	 - Account
+16:27:15	No change: C:\SpaceFlight365\Solution\package\Entities\Account\FormXml\main\{8448b78f-8f42-454e-8e2a-f8196b0419af}.xml
+16:27:15	No change: C:\SpaceFlight365\Solution\package\Entities\Account\SavedQueries\{00000000-0000-0000-00aa-000010001002}.xml
+16:27:15	No change: C:\SpaceFlight365\Solution\package\Entities\Account\RibbonDiff.xml
+16:27:15	No change: C:\SpaceFlight365\Solution\package\Entities\Account\Entity.xml
+16:27:15	Processing Component: Roles
+16:27:15	Processing Component: Workflows
+16:27:15	Processing Component: FieldSecurityProfiles
+16:27:15	Processing Component: Templates
+16:27:15	Processing Component: EntityMaps
+16:27:15	Processing Component: EntityRelationships
+16:27:15	No change: C:\SpaceFlight365\Solution\package\Other\Relationships.xml
+16:27:15	Processing Component: optionsets
+16:27:15	Processing Component: WebResources
+16:27:15	 - sf365_/js/checkin.js
+16:27:15	No change: C:\SpaceFlight365\Solution\package\WebResources\sf365_\js\checkin.js.data.xml
+16:27:15	Skipping 'C:\SpaceFlight365\Solution\package\WebResources\sf365_\js\checkin.js' as it matches a mapping directive
+16:27:15	Processing Component: SolutionPluginAssemblies
+16:27:15	 - SF365.Plugins, Version=1.0.0.0, Culture=neutral, PublicKeyToken=df098daea0b8b5a2
+16:27:15	Creating: C:\SpaceFlight365\Solution\package\PluginAssemblies/SF365Plugins-1BD56A07-7E84-EA11-A811-000D3AB9514A/SF365Plugins.dll.data.xml
+16:27:15	Solution may not repack due to missing mapped file for: C:\SpaceFlight365\Solution\package\PluginAssemblies/SF365Plugins-1BD56A07-7E84-EA11-A811-000D3AB9514A/SF365Plugins.dll
+16:27:15	Skipping 'C:\SpaceFlight365\Solution\package\PluginAssemblies/SF365Plugins-1BD56A07-7E84-EA11-A811-000D3AB9514A/SF365Plugins.dll' as it matches a mapping directive
+16:27:15	Processing Component: EntityDataProviders
+16:27:15	Writing: C:\SpaceFlight365\Solution\package\Other\Customizations.xml
+16:27:15	Writing: C:\SpaceFlight365\Solution\package\Other\Solution.xml
+16:27:15	
+16:27:15	Unmanaged Extract complete.
+16:27:15	
+16:27:15	2 warnings encountered
+16:27:15	Read-only files will be over-written or deleted.
+16:27:15	Solution may not repack due to missing mapped file for: C:\SpaceFlight365\Solution\package\PluginAssemblies/SF365Plugins-1BD56A07-7E84-EA11-A811-000D3AB9514A/SF365Plugins.dll
+16:27:15	CrmSvcUtil Runtime = 00:00:00.2130376

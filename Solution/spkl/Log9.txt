@@ -1,0 +1,21 @@
+15:19:44	Creating: C:\SpaceFlight365\Solution\package\Other\Solution.xml
+15:19:44	
+15:19:44	Unmanaged Extract complete.
+15:19:44	
+15:19:44	1 warnings encountered
+15:19:44	Read-only files will be over-written or deleted.
+15:19:44	CrmSvcUtil Runtime = 00:00:00.6702559
+16:18:36	Processing Component: optionsets
+16:18:36	Processing Component: WebResources
+16:18:36	 - sf365_/js/checkin.js
+16:18:36	No change: C:\SpaceFlight365\Solution\package\WebResources\sf365_\js\checkin.js.data.xml
+16:18:36	Skipping 'C:\SpaceFlight365\Solution\package\WebResources\sf365_\js\checkin.js' as it matches a mapping directive
+16:18:36	Processing Component: EntityDataProviders
+16:18:36	No change: C:\SpaceFlight365\Solution\package\Other\Customizations.xml
+16:18:36	No change: C:\SpaceFlight365\Solution\package\Other\Solution.xml
+16:18:36	
+16:18:36	Unmanaged Extract complete.
+16:18:36	
+16:18:36	1 warnings encountered
+16:18:36	Read-only files will be over-written or deleted.
+16:18:36	CrmSvcUtil Runtime = 00:00:00.3229361
